@@ -65,7 +65,7 @@ currentImageIndex уменьшается на 1.
 
 Используя кнопки "Вперед" и "Назад" перелистывайте изображение.
 
-![image](https://github.com/user-attachments/assets/e2c5a403-e24c-4e51-ba26-6e7b2643a950)
+![image](https://github.com/user-attachments/assets/3b9a9796-f887-44b5-b8d3-db8a95db4317)
 
 ### Стек технологий
 
